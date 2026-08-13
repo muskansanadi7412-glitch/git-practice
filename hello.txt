@@ -1,4 +1,3 @@
-Learning Git Day 6 - Main Branch
 Learning GitHub Branch and Pull RequestHello Git
 Learning Git Day 2
 Learning Git is easy
