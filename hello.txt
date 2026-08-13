@@ -1,4 +1,4 @@
-Hello Git
+Learning GitHub Branch and Pull RequestHello Git
 Learning Git Day 2
 Learning Git is easy
 Learning Git is easy
